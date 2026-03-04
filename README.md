@@ -21,7 +21,7 @@ The analysis identified a highly significant causal drop in violations following
 * Monthly Impact: Average loss of 233.88 violations per intersection, per month.
 * Annual Revenue Impact: Total estimated loss of $1,683,936.00 across the 6 removed intersections.
 * 95% Confidence Interval: Annual impact ranges between $1.17M and $2.19M.
-* Portfolio Percentage: This decommission represented a 2.8% reduction in total annual red light violation revenue (based on an estimated city-wide baseline of $60M).ConclusionWhile the 2017 decommission targeted safety improvements, it resulted in a non-trivial and permanent reduction in municipal revenue. This project demonstrates how econometric matching and DiD can be deployed to provide policymakers with a precise accounting of the financial trade-offs inherent in urban safety programs.
+* Portfolio Percentage: This decommission represented a 2.8% reduction in total annual red light violation revenue (based on an estimated city-wide baseline of $60M).
 
 ## Conclusion
 While the 2017 decommission targeted safety improvements, it resulted in a non-trivial and permanent reduction in municipal revenue. This project demonstrates how econometric matching and DiD can be deployed to provide policymakers with a precise accounting of the financial trade-offs inherent in urban safety programs.
